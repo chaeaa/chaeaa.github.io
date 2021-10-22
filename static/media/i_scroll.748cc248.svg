@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="65" viewBox="0 0 32 65">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_scroll" transform="translate(976 1016) rotate(180)">
+    <g id="사각형_375" data-name="사각형 375" class="cls-1" transform="translate(944 951)">
+      <rect class="cls-3" width="32" height="58" rx="16"/>
+      <rect class="cls-4" x="1" y="1" width="30" height="56" rx="15"/>
+    </g>
+    <line id="선_141" data-name="선 141" class="cls-2" y2="26.5" transform="translate(960 988.5)"/>
+  </g>
+</svg>

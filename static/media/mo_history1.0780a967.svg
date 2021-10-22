@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="61">
+    <defs>
+        <style>
+            .cls-5{fill:#ffcf02}
+        </style>
+    </defs>
+    <g id="history1" transform="translate(-23.615 -2528.06)">
+        <g id="타원_82" data-name="타원 82" transform="translate(23.615 2541.06)" style="fill:#fff;stroke:#5ac29f;stroke-width:2px">
+            <circle cx="6" cy="6" r="6" style="stroke:none"/>
+            <circle cx="6" cy="6" r="5" style="fill:none"/>
+        </g>
+        <text id="_2015" data-name="2015" transform="translate(48.615 2554.06)" style="font-family:NotoSansCJKkr-Medium,Noto Sans CJK KR;font-weight:500;letter-spacing:-.03em;fill:#191919;font-size:22px"><tspan x="0" y="0">2015</tspan></text>
+        <text id="_그로잉맘_계정_운영_시작" data-name="• 그로잉맘 계정 운영 시작" transform="translate(48.615 2584.06)" style="fill:#5c5c5c;font-size:16px;font-family:NotoSansCJKkr-Medium,Noto Sans CJK KR;font-weight:500;letter-spacing:-.03em"><tspan x="0" y="0" xml:space="preserve">•   그로잉맘 계정 운영 시작</tspan></text>
+        <g id="그룹_1367" data-name="그룹 1367" transform="translate(101.615 2537.285)">
+            <path id="패스_1774" data-name="패스 1774" d="M-1856.339-480.068h-10.979l5.49 5.49z" transform="translate(1867.344 486.924)" style="fill:#3cc91f"/>
+            <path id="패스_1775" data-name="패스 1775" class="cls-5" d="m-1825.832-469.926 5.5 5.5v-11z" transform="translate(1832.05 482.976)"/>
+            <path id="패스_1776" data-name="패스 1776" d="m-1771.841-474.595 5.473-5.473h-10.946z" transform="translate(1790.776 486.924)" style="fill:#efa2c6"/>
+            <path id="패스_1777" data-name="패스 1777" d="M-1782.322-475.651v11.034l5.517-5.517z" transform="translate(1795.036 483.167)" style="fill:#34d5ea"/>
+            <path id="패스_1778" data-name="패스 1778" class="cls-5" d="m-1770.6-520.138-5.862-5.862-5.857 5.857z" transform="translate(1795.036 526)"/>
+            <path id="패스_1779" data-name="패스 1779" d="M-1855.77-520.138v-.005l-5.857-5.857-5.862 5.862z" transform="translate(1867.489 526)" style="fill:#ec4e4b"/>
+        </g>
+    </g>
+</svg>

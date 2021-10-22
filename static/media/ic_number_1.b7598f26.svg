@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="116" viewBox="0 0 116 116">
+  <g id="ic_number_1" transform="translate(-477 -2106)">
+    <circle id="타원_44" data-name="타원 44" cx="58" cy="58" r="58" transform="translate(477 2106)" fill="#5ac29f"/>
+    <g id="그룹_473" data-name="그룹 473" transform="translate(-418.979 1493.474)">
+      <g id="그룹_472" data-name="그룹 472" transform="translate(946.81 644.024)">
+        <path id="패스_891" data-name="패스 891" d="M944.007,667.11l-2.531,10.416L951.892,675l21.453-21.451a5.578,5.578,0,0,0,0-7.887h0a5.578,5.578,0,0,0-7.887,0Z" transform="translate(-941.476 -644.024)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="선_56" data-name="선 56" x2="4.295" y2="4.295" transform="translate(23.591 6.721)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <path id="패스_892" data-name="패스 892" d="M976.134,666.676v21.835a5.723,5.723,0,0,1-5.722,5.722h-35.6a5.723,5.723,0,0,1-5.722-5.722V651.477a4.292,4.292,0,0,1,4.292-4.292l22.128-.159" transform="translate(0 1.292)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

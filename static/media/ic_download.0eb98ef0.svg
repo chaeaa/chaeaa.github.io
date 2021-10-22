@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.41" height="24" viewBox="0 0 18.41 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: square;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_download" transform="translate(1 1)">
+    <line id="선_213" data-name="선 213" class="cls-1" y2="14" transform="translate(7.917)"/>
+    <path id="패스_2389" data-name="패스 2389" class="cls-1" d="M-18323.025-14183.547l7.586,6.839,7.939-6.839" transform="translate(18323.5 14193.185)"/>
+    <line id="선_214" data-name="선 214" class="cls-1" x2="16" transform="translate(0 22)"/>
+  </g>
+</svg>

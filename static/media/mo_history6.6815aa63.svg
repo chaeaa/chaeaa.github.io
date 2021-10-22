@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="295" height="171.234">
+    <g data-name="타원 180" transform="translate(0 15)" style="fill:#fff;stroke:#5ac29f;stroke-width:2px">
+        <circle cx="6" cy="6" r="6" style="stroke:none"/>
+        <circle cx="6" cy="6" r="5" style="fill:none"/>
+    </g>
+    <text data-name="2020" transform="translate(25 26)" style="font-family:NotoSansCJKkr-Medium,Noto Sans CJK KR;font-weight:500;letter-spacing:-.03em;fill:#191919;font-size:22px"><tspan x="0" y="0">2020</tspan></text>
+    <text data-name="• 신한퓨처스랩 선정 • RISING X 3기 선정 • 아무놀이 챌린지 캠페인 운영 • 정약형 비대면 육아상담 서비스 베타운영 • 기질 큐레이션 상품 런칭 • SEED 투자 유치" transform="translate(25 56.234)" style="fill:#5c5c5c;font-size:16px;font-family:NotoSansCJKkr-Medium,Noto Sans CJK KR;font-weight:500;letter-spacing:-.03em"><tspan x="0" y="0" xml:space="preserve">•   신한퓨처스랩 선정</tspan><tspan x="0" y="22" xml:space="preserve">•   </tspan><tspan y="22">RISING X 3</tspan><tspan y="22">기 선정</tspan><tspan x="0" y="44" xml:space="preserve">•   아무놀이 챌린지 캠페인 운영</tspan><tspan x="0" y="66" xml:space="preserve">•   정약형 비대면 육아상담 서비스 베타운영</tspan><tspan x="0" y="88" xml:space="preserve">•   기질 큐레이션 상품 런칭</tspan><tspan x="0" y="110" xml:space="preserve">•   </tspan><tspan y="110">SEED </tspan><tspan y="110">투자 유치</tspan></text>
+    <path data-name="패스 2206" d="M933.717 380.423v-14.174a2.835 2.835 0 0 1 2.835-2.835h10.134l-2.266 4.778 2.266 4.778h-9.419" transform="translate(-853.217 -352.414)" style="stroke:#2c3149;stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+</svg>

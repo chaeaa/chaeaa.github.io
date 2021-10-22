@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="116" viewBox="0 0 116 116">
+  <g id="ic_number_3" transform="translate(-1074 -2106)">
+    <circle id="타원_49" data-name="타원 49" cx="58" cy="58" r="58" transform="translate(1074 2106)" fill="#5ac29f"/>
+    <g id="그룹_479" data-name="그룹 479" transform="translate(385.969 1687.9)">
+      <g id="그룹_476" data-name="그룹 476" transform="translate(741.444 458.095)">
+        <ellipse id="타원_41" data-name="타원 41" cx="7.711" cy="7.797" rx="7.711" ry="7.797" transform="translate(19.133 8.318)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="패스_894" data-name="패스 894" d="M779.274,492.244h0a11.814,11.814,0,0,0-11.749-11.879h-3.673A11.814,11.814,0,0,0,752.1,492.244h0" transform="translate(-738.966 -456.453)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <ellipse id="타원_42" data-name="타원 42" cx="5.934" cy="6" rx="5.934" ry="6" transform="translate(4.613)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="패스_895" data-name="패스 895" d="M751.584,469.259h-2.826a9.091,9.091,0,0,0-9.041,9.142h0" transform="translate(-739.718 -457.259)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="패스_896" data-name="패스 896" d="M747.3,469.259h2.827a8.98,8.98,0,0,1,6.868,3.2" transform="translate(-739.257 -457.259)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="그룹_478" data-name="그룹 478" transform="translate(711.311 457.756)">
+        <g id="그룹_477" data-name="그룹 477" transform="translate(7.798)">
+          <ellipse id="타원_43" data-name="타원 43" cx="10.235" cy="10.35" rx="10.235" ry="10.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <path id="패스_897" data-name="패스 897" d="M747.376,492.824h0a15.682,15.682,0,0,0-15.594-15.77h-4.876a15.683,15.683,0,0,0-15.6,15.77h0" transform="translate(-711.311 -456.355)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

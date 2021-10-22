@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="275" height="81.432">
+    <defs>
+        <style>
+            .cls-4{fill:none;stroke:#2b2b2b;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="history2" transform="translate(-23.615 -2634.529)">
+        <g id="타원_176" data-name="타원 176" transform="translate(23.615 2648.529)" style="fill:#fff;stroke:#5ac29f;stroke-width:2px">
+            <circle cx="6" cy="6" r="6" style="stroke:none"/>
+            <circle cx="6" cy="6" r="5" style="fill:none"/>
+        </g>
+        <text id="_2016" data-name="2016" transform="translate(48.615 2660.529)" style="font-family:NotoSansCJKkr-Medium,Noto Sans CJK KR;font-weight:500;letter-spacing:-.03em;fill:#191919;font-size:22px"><tspan x="0" y="0">2016</tspan></text>
+        <text id="_카카오_브런치_금상_수상_경기콘텐츠진흥원_육성프로그램_선정" data-name="• 카카오 브런치 금상 수상 • 경기콘텐츠진흥원 육성프로그램 선정" transform="translate(48.615 2688.961)" style="fill:#5c5c5c;font-size:16px;font-family:NotoSansCJKkr-Medium,Noto Sans CJK KR;font-weight:500;letter-spacing:-.03em"><tspan x="0" y="0" xml:space="preserve">•   카카오 브런치 금상 수상</tspan><tspan x="0" y="22" xml:space="preserve">•   경기콘텐츠진흥원 육성프로그램 선정</tspan></text>
+        <g id="그룹_6007" data-name="그룹 6007" transform="translate(-1388.778 2374.184)">
+            <g id="그룹_688" data-name="그룹 688" transform="translate(1497.299 270.498)">
+                <path id="패스_1330" data-name="패스 1330" class="cls-4" d="M1503.346 270.5h6.427a1.418 1.418 0 0 1 1.418 1.418v4.249a5.526 5.526 0 0 1-5.311 5.557h0a5.526 5.526 0 0 1-5.311-5.557v-4.855" transform="translate(-1500.57 -270.498)"/>
+                <path id="패스_1331" data-name="패스 1331" class="cls-4" d="M1511.355 302.569v.045a.856.856 0 0 1-.855.856h-6.1a.856.856 0 0 1-.856-.856v-.045" transform="translate(-1502.139 -287.414)"/>
+                <path id="선_121" data-name="선 121" class="cls-4" transform="translate(5.311 11.223)" d="M0 0v4.833"/>
+            </g>
+            <g id="그룹_689" data-name="그룹 689" transform="translate(1494.369 272.846)">
+                <path id="선_122" data-name="선 122" class="cls-4" transform="translate(16.483)" d="M0 0v4.505"/>
+                <path id="선_123" data-name="선 123" class="cls-4" d="M0 4.505V0"/>
+            </g>
+        </g>
+    </g>
+</svg>
